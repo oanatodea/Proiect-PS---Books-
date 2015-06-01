@@ -1,0 +1,62 @@
+﻿@model ProiectPS.Models.BookModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>BookModel</legend>
+
+        @Html.HiddenFor(model => model.bookId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.title)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.title)
+            @Html.ValidationMessageFor(model => model.title)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.author)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.author)
+            @Html.ValidationMessageFor(model => model.author)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.genre)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.genre)
+            @Html.ValidationMessageFor(model => model.genre)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.rating)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.rating)
+            @Html.ValidationMessageFor(model => model.rating)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

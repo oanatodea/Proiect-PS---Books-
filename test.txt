@@ -1,0 +1,5762 @@
+[
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 8,
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "genre": "romance",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 9,
+        "title": "Primul Pas",
+        "author": "Klaus Iohannis",
+        "genre": "Politic",
+        "rating": 2.0
+      }
+    ]
+  },
+  {
+    "Key": {
+      "UserId": 1,
+      "UserName": "oana"
+    },
+    "Value": [
+      {
+        "bookId": 10,
+        "title": "Fluturi",
+        "author": "Irina Binder",
+        "genre": "dragoste",
+        "rating": 0.0
+      }
+    ]
+  }
+]

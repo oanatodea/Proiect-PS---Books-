@@ -1,0 +1,43 @@
+﻿@model ProiectPS.Models.BookModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>BookModel</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.title)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.title)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.author)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.author)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.genre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.genre)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.rating)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.rating)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.bookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

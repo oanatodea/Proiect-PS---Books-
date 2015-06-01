@@ -1,0 +1,78 @@
+﻿@model IEnumerable<ProiectPS.Models.BookModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All books</h2>
+
+<p>
+    @Html.ActionLink("Go to read books", "Index", "ReadBook")
+</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.genre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rating)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.author)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.genre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rating)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.bookId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.bookId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.bookId })
+        </td>
+        <td>
+            <form action=" Book/rateAsGood">
+                <input type="hidden" value="@item.bookId" name="bookId">
+                <input type="submit" value="Good">
+            </form>
+        </td>
+        <td>
+            <form action=" Book/rateAsBad">
+                <input type="hidden" value="@item.bookId" name="bookId">
+                <input type="submit" value="Bad">
+            </form>
+        </td>
+        <td>
+            <form action=" ReadBook/AddReadBook">
+                <input type="hidden" value="@item.bookId" name="bookId">
+                <input type="submit" value="Add to read">
+            </form>
+        </td>
+    </tr>
+}
+
+</table>
+
+
+<p>
+    @Html.ActionLink("Go to suggested books", "viewSuggestedBooks", "Book")
+</p>
